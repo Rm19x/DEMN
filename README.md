@@ -1,7 +1,6 @@
 <div align="center">
 
 #  DEMN (D3D MENU NETWORK)
-### **Advanced Python-Based D3D Overlay, System Optimizer & Network Utility Suite**
 
 [![Developer](https://img.shields.io/badge/Developer-Mr.Rm19-00ff66?style=&logo=github)](https://github.com/Rm19x)
 
